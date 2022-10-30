@@ -14,3 +14,12 @@
     from our dashboard in seconds.
   </p>
 </div>
+
+
+## 🚀 Community
+
+The Clouddley community is a place where you can ask questions, share your ideas, and help others. We encourage you to join us!. Ensure you read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+
+
+
+
